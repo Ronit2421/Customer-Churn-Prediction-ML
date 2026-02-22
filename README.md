@@ -66,11 +66,6 @@ The dataset contains customer information such as:
 
 ---
 
-## 📊 Decision Tree Visualization
-(Add screenshot here)
-
----
-
 ## 🎯 Conclusion
 Decision Tree and Logistic Regression models were used for churn classification.
 Decision Tree provided better interpretability through visualization.
